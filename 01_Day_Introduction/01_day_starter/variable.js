@@ -18,3 +18,12 @@ const PI = 3.14              // geometrical constant
 let name = 'Asabeneh',     //name of a person
   job = 'teacher',
   live = 'Finland'
+
+let empty = null
+let nickname
+
+//Declare four variables without assigning values
+let address
+let school
+let state
+let height
